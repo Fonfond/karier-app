@@ -1,0 +1,26 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+build/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Переменные окружения
+.env
+.env.local
+.env.*.local
+
+# Редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Файлы, которые вы не хотите загружать (при необходимости)
+# *.xlsx
+# 1.js
+# 2.js
