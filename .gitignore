@@ -24,3 +24,5 @@ Thumbs.db
 # *.xlsx
 # 1.js
 # 2.js
+.env
+.env.local
